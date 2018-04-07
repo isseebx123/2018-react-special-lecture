@@ -4,7 +4,7 @@ import './Content.css'
 class Content extends Component {
     render() {
         return (
-            <div clasName="App-content">
+            <div className="App-content">
                 {this.props.page}
             </div>
         );
